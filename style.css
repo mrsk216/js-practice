@@ -23,3 +23,7 @@ html,body{
     background-size: cover;
     background-position: bottom center;
 }
+
+.borders{
+    border-bottom: 3px solid gray;
+}
